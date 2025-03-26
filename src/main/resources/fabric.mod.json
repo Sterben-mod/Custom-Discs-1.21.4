@@ -8,8 +8,8 @@
 		"Sterben"
 	],
 	"contact": {
-		"homepage": "https://fabricmc.net/",
-		"sources": "https://github.com/FabricMC/fabric-example-mod"
+		"homepage": "https://github.com/Sterben-mod",
+		"sources": "https://github.com/Sterben-mod/Custom-Discs-1.21.4"
 	},
 	"license": "CvSU - Silang",
 	"icon": "assets/customdiscs/icon.png",

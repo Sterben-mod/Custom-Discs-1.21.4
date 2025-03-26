@@ -1,0 +1,8 @@
+{
+  "comparator_output": 15,
+  "description": {
+    "translate": "item.customdiscs.isang_linggo_music_disc.desc"
+  },
+  "length_in_seconds": 195.6,
+  "sound_event": "customdiscs:isang_linggo"
+}

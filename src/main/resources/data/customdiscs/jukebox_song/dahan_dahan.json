@@ -1,0 +1,8 @@
+{
+  "comparator_output": 15,
+  "description": {
+    "translate": "item.customdiscs.dahan_dahan_music_disc.desc"
+  },
+  "length_in_seconds": 212.4,
+  "sound_event": "customdiscs:dahan_dahan"
+}

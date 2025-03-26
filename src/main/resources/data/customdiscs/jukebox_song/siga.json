@@ -1,0 +1,8 @@
+{
+  "comparator_output": 15,
+  "description": {
+    "translate": "item.customdiscs.siga_music_disc.desc"
+  },
+  "length_in_seconds": 210.6,
+  "sound_event": "customdiscs:siga"
+}

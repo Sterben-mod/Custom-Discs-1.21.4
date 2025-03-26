@@ -2,5 +2,32 @@
   "itemGroup.custom_discs": "OPM Discs",
 
   "item.customdiscs.telepono_music_disc": "§bMusic Disc",
-  "item.customdiscs.telepono_music_disc.desc": "One Click Straight - Telepono"
+  "item.customdiscs.telepono_music_disc.desc": "One Click Straight - Telepono",
+
+  "item.customdiscs.mrt_music_disc": "§bMusic Disc",
+  "item.customdiscs.mrt_music_disc.desc": "One Click Straight - MRT",
+
+  "item.customdiscs.dahan_dahan_music_disc": "§bMusic Disc",
+  "item.customdiscs.dahan_dahan_music_disc.desc": "One Click Straight - Dahan-Dahan",
+
+  "item.customdiscs.siga_music_disc": "§bMusic Disc",
+  "item.customdiscs.siga_music_disc.desc": "One Click Straight - SIGA",
+
+  "item.customdiscs.suyen_imnida_music_disc": "§bMusic Disc",
+  "item.customdiscs.suyen_imnida_music_disc.desc": "SUYEN - Suyen Imnida",
+
+  "item.customdiscs.bente_music_disc": "§bMusic Disc",
+  "item.customdiscs.bente_music_disc.desc": "SUYEN - Bente",
+
+  "item.customdiscs.isang_linggo_music_disc": "§bMusic Disc",
+  "item.customdiscs.isang_linggo_music_disc.desc": "SUYEN - Isang Linggong Maghihintay",
+
+  "item.customdiscs.tampo_music_disc": "§bMusic Disc",
+  "item.customdiscs.tampo_music_disc.desc": "SUYEN - Tampo",
+
+  "item.customdiscs.something_about_you_music_disc": "§bMusic Disc",
+  "item.customdiscs.something_about_you_music_disc.desc": "SUYEN - Something 'bout u",
+
+  "item.customdiscs.teka_lang_music_disc": "§bMusic Disc",
+  "item.customdiscs.teka_lang_music_disc.desc": "SUYEN - Teka Lang! (Looper Machine)"
 }

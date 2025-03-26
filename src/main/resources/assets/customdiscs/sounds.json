@@ -6,5 +6,77 @@
         "stream": true
       }
     ]
+  },
+  "mrt": {
+    "sounds": [
+      {
+        "name": "customdiscs:mrt",
+        "stream": true
+      }
+    ]
+  },
+  "dahan_dahan": {
+    "sounds": [
+      {
+        "name": "customdiscs:dahan_dahan",
+        "stream": true
+      }
+    ]
+  },
+  "siga": {
+    "sounds": [
+      {
+        "name": "customdiscs:siga",
+        "stream": true
+      }
+    ]
+  },
+  "suyen_imnida": {
+    "sounds": [
+      {
+        "name": "customdiscs:suyen_imnida",
+        "stream": true
+      }
+    ]
+  },
+  "bente": {
+    "sounds": [
+      {
+        "name": "customdiscs:bente",
+        "stream": true
+      }
+    ]
+  },
+  "isang_linggo": {
+    "sounds": [
+      {
+        "name": "customdiscs:isang_linggo",
+        "stream": true
+      }
+    ]
+  },
+  "tampo": {
+    "sounds": [
+      {
+        "name": "customdiscs:tampo",
+        "stream": true
+      }
+    ]
+  },
+  "something_about_you": {
+    "sounds": [
+      {
+        "name": "customdiscs:something_about_you",
+        "stream": true
+      }
+    ]
+  },
+  "teka_lang": {
+    "sounds": [
+      {
+        "name": "customdiscs:teka_lang",
+        "stream": true
+      }
+    ]
   }
 }

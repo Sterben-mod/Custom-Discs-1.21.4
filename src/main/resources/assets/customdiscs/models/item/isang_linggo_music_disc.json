@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "customdiscs:item/isang_linggo_music_disc"
+  }
+}
