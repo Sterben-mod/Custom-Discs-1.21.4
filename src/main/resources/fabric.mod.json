@@ -1,0 +1,40 @@
+{
+	"schemaVersion": 1,
+	"id": "customdiscs",
+	"version": "${version}",
+	"name": "Custom Discs 1.21.4",
+	"description": "Sterben's Favourite Songs implemented into Music Discs!",
+	"authors": [
+		"Sterben"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "CvSU - Silang",
+	"icon": "assets/customdiscs/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"net.sterben.customdiscs.CustomDiscs1214"
+		],
+		"fabric-datagen": [
+			"net.sterben.customdiscs.CustomDiscs1214DataGenerator"
+		],
+		"client": [
+			"net.sterben.customdiscs.CustomDiscs1214Client"
+		]
+	},
+	"mixins": [
+		"customdiscs.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.16.10",
+		"minecraft": "~1.21.4",
+		"java": ">=21",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}

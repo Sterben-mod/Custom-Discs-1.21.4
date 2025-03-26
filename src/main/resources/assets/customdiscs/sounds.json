@@ -1,0 +1,10 @@
+{
+  "telepono": {
+    "sounds": [
+      {
+        "name": "customdiscs:telepono",
+        "stream": true
+      }
+    ]
+  }
+}
